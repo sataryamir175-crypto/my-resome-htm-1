@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #f5f9ff;
+  color: #222;
+}
+
+.card {
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.header {
+  text-align: center;
+}
+
+.name {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.role {
+  margin-top: 5px;
+  color: #555;
+}
+
+.github {
+  display: inline-block;
+  margin-top: 5px;
+  padding: 6px 10px;
+  background: #e8f0ff;
+  border-radius: 6px;
+  text-decoration: none;
+  color: #002b6d;
+}
+
+.section {
+  margin-top: 20px;
+}
+
+.section h2 {
+  margin-bottom: 10px;
+}
+
+.skills li {
+  margin: 5px 0;
+}
