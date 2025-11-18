@@ -1,4 +1,8 @@
 body {
+  direction:rt1;
+  text-right;
+}
+body {
   margin: 0;
   font-family: sans-serif;
   background: #f5f9ff;
